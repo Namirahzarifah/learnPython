@@ -1,6 +1,6 @@
 #if statement within function
 
-def schoolAgeCalculator(age,name): #to get two values: age and name of child
+def schoolAgeCalculator(age,name): #to get two values: age and name of the child
     if age < 5:
         print("Enjoy the time at home!", name, "is only", age)
     elif age == 5:
